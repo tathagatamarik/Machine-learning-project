@@ -8,3 +8,4 @@ conda activate new
 pip install -r requirement.txt
 we are going to add
 new thing
+new 2
